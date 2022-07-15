@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Chennai Dance and Dance academy|school|studio|company.</title>
+<meta name="description" content="Dance and Dance Academy! Chennai. This site is especially designed for dance lovers and dance learners which has all things associated to dance and dancing, comprising superb dance information and much more." />
+<meta name="keywords" content="International Dance Styles, Dance and Dance Studio, Dance company, Dance Articles, Dance Gallery, Dance Themed movies, Dance school" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans:400,500,600,700,800,900&display=swap"
+        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap" rel="stylesheet">
+
+
+    <!-- Css Styles -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="css/elegant-icons.css" type="text/css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css" type="text/css">
+    <link rel="stylesheet" href="css/magnific-popup.css" type="text/css">
+    <link rel="stylesheet" href="css/slicknav.min.css" type="text/css">
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+    
+    <style>
+	div#shadow{
+	
+    box-shadow: 0px 2px 7px #292929;
+    border-radius: 32px;
+    padding-left: 40px;
+    /* max-height: 649px; */
+	}
+	.price-item a:hover{color:#f9488b}
+	.con-txt{text-align:justify;
+	padding:10px;
+	}
+	
+	.banner1 {
+    width: 50%;
+	float:left;
+}
+
+
+ul.breadcrumb li {
+  font-size:30px;
+ 
+}
+ul.breadcrumb li a {
+  color:#E75480;
+  	 text-shadow: 2px 2px 4px #000000;
+  font-weight:bold;
+  text-decoration: none;
+}
+ul.breadcrumb li a:hover {
+  color:red;
+  font-weight:bold;
+  text-decoration: underline;
+}
+.main-text{color:#0000000;font-size:15px;padding:50px;text-align:justify;}
+.main-text h5{
+	color:#E75480;
+	font-weight:bold;
+
+	 font-size:25px;
+	}
+.main-text img{
+	width:200px;
+	height:200px;
+	padding:10px;
+	transition: transform .1s;
+	}	
+.main-container{
+
+	width:100%;
+	}
+.main-text img:hover {
+    transform: scale(1.10);
+	transition-duration: 1s;
+}
+.left-container{
+	width:23%;
+	float:left;
+}.right-container{
+	width:75%;
+	float:right;}
+.headingtext{
+	color:#dc3545;
+	font-weight:bold;
+}
+.row {
+   margin: 2px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    
+    -webkit-transition: box-shadow;
+    transition: all 0.5s ease;
+	
+}
+
+.column {
+	
+	display: flex;
+    flex-direction: column;
+    height: 100%;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    align-items: stretch;
+    justify-content: space-around;
+	 
+ 
+ 
+    
+}
+.row img{
+	 border-radius: 30px;
+}
+
+#shadow a:hover{
+	color:pink !important;
+}
+	#footer .footer-top {
+    background: #040919;
+    padding: 60px 0 30px 0;
+}
+#footer a{
+    color:#fff;
+}
+#footer h4{
+    color:#F3659A;
+	text-decoration: underline;
+}
+#footer h4:hover{
+    color:#fff;
+	
+}
+#footer i {
+    padding-right: 5px;
+    color: #F3659A;
+    font-size: 18px;
+}
+#footer li{
+
+    list-style:none;
+}
+#footer a:hover{
+    color:#F3659A;
+}
+	</style>
+</head>
+
+<body>
+    <!-- Page Preloder 
+    <div id="preloder">
+        <div class="loader"></div>
+    </div>-->
+
+    <!-- Header Section Begin -->
+    <header class="header-section">
+        <div class="container">
+            <div class="logo">
+                <a href="./index.html">
+                    <img src="https://www.danceanddance.com/images/logo1.gif" alt="">
+                </a>
+            </div>
+            <div class="nav-menu">
+                <nav class="mainmenu mobile-menu">
+                    <ul>
+                        <li class="active"><a href="https://www.danceanddance.com/">Home</a></li>
+                      
+                        <li><a href="https://www.danceanddance.com/dance_styles.php">Dance Styles</a>
+                            <ul class="dropdown">
+                            <li><a href="https://www.danceanddance.com/ballet.php">Ballet Dance</a></li>
+                    		<li><a href="https://www.danceanddance.com/ballroom-dance.php">Ballroom Dance</a></li>
+                    		<li><a href="https://www.danceanddance.com/lap-dance.php">Lap Dance</a></li>
+                    		<li><a href="https://www.danceanddance.com/jazz-dance.php">Jazz Dance</a></li>
+                    		<li><a href="https://www.danceanddance.com/rumba-dance.php">Rumba Dance</a></li>
+                    		<li><a href="https://www.danceanddance.com/cha-cha-dance.php">Cha Cha Dance</a></li>
+                    		<li><a href="https://www.danceanddance.com/concert-dance.php">Concert Dance</a></li>
+                    		<li><a href="https://www.danceanddance.com/folk-dance.php">Folk Dance</a></li>
+                    		<li><a href="https://www.danceanddance.com/fox-trot-dance.php">Fox Trot Dance</a></li>
+                    		<li><a href="https://www.danceanddance.com/high-land-dance.php">High land Dance</a></li>
+                    		<li><a href="https://www.danceanddance.com/hip-hop-dance.php">Hip Hop Dance</a></li>
+                    		<li><a href="https://www.danceanddance.com/international-folk-dance.php">International Folk Dance</a></li>
+                    		<li><a href="https://www.danceanddance.com/salsa.php">Salsa Dance</a></li>
+                            <li><a href="https://www.danceanddance.com/samba.php">Samba Dance</a></li>
+                            <li><a href="https://www.danceanddance.com/square-dance.php">Square Dance</a></li>
+                            <li><a href="https://www.danceanddance.com/swing-dance.php">Swing Dance</a></li>
+                            <li style="border-top:1px solid #ccc;"><a href="https://www.danceanddance.com/Dance_styles_gallery.php">view more</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="https://www.danceanddance.com/Dancer_gallery.php">GALLERY</a>
+                            <ul class="dropdown">
+                            <li><a href="https://www.danceanddance.com/Dancer_gallery.php">Famous Dancer Gallery</a></li>
+                    		<li><a href="https://www.danceanddance.com/Dance_styles_gallery.php">Dance styles Gallery</a></li>
+                    		<li><a href="https://www.danceanddance.com/Dance_movie_gallery.php">Dance theme Movies Gallery</a></li>
+                    		<li><a href="https://www.danceanddance.com/Dance_companies_by_country.php">Dance Companies</a></li>
+                            </ul>
+                        </li>
+                         <li><a href="https://www.danceanddance.com/quick_dance_style_search.php">QUICK SEARCH</a>
+                            <ul class="dropdown">
+                            <li><a href="https://www.danceanddance.com/quick_movie_search.php">Movies Search</a></li>
+                    		<li><a href="https://www.danceanddance.com/quick_dance_style_search.php">Dance Style Search</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="https://www.danceanddance.com/about-us.php">ABOUT US</a>
+                            <ul class="dropdown">
+                           <li><a href="https://www.danceanddance.com/contact-us.php">Contact Us</a></li>
+                            </ul>
+                        </li>
+                        <li style="border:none;"><a href="#">LOGIN</a>
+                            <ul class="dropdown">
+                        <li><a href="https://www.danceanddance.com/dancer-login.php">Dancer</a></li>
+                    	<li><a href="https://www.danceanddance.com/dance-audition-register-login.php">Choreographer</a></li>
+                            </ul>
+                        </li>
+                       
+                    </ul>
+                </nav>
+                <a href="#" class="primary-btn top-btn"><i class="fa fa-search"></i> Search</a>
+            </div>
+            <div id="mobile-menu-wrap"></div>
+        </div>
+    </header>
+    <!-- Header End -->
+
+    <!-- Hero Section Begin -->
+    <section class="hero-section set-bg" data-setbg="img/hero.jpg">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-7">
+                    <div class="hero-text">
+                        <span>Join the Incredible</span>
+                        <h2>World Of Dance</h2>
+                        <a href="#" class="primary-btn">View the Classes</a>
+                    </div>
+                </div>
+                <div class="col-lg-5">
+                    <img src="img/dance-img/dance.png" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Hero Section End -->
+
+    <!-- Counter Section Begin -->
+    <section class="counter-section bg-gradient">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="counter-text">
+                        <span>Conference Date</span>
+                        <h3>Count Every Second <br/>Until the Event</h3>
+                    </div>
+                </div>
+                <div class="col-lg-8">
+                    <div class="cd-timer" id="countdown">
+                        <div class="cd-item">
+                            <span>40</span>
+                            <p>Days</p>
+                        </div>
+                        <div class="cd-item">
+                            <span>18</span>
+                            <p>Hours</p>
+                        </div>
+                        <div class="cd-item">
+                            <span>46</span>
+                            <p>Minutes</p>
+                        </div>
+                        <div class="cd-item">
+                            <span>32</span>
+                            <p>Seconds</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <br>
+   
+    <!-- Counter Section End -->
+  
+    <!-- Home About Section Begin -->
+    
+        <div class="main-container">
+            
+                
+                <div class="left-container">
+                 
+                    <div class="box" id="shadow">
+                    
+						<div class="lt_row_one cmn">
+                	          <p><a href="https://www.danceanddance.com/dancer-registration.php" class="headingtext" style="color:#dc3545;font-weight:bold;">DANCER SIGNUP</a></p>
+                              <a href="https://www.danceanddance.com/dancer-registration.php" class="headingtext"><img class="It-img" src="https://www.danceanddance.com/images/Dancer-Signup.png"></a>
+                        </div>
+                        
+						<div class="lt_row_one cmn">
+                	          <p><a href="https://www.danceanddance.com/dance-auditions-register.php" class="headingtext">CHOREOGRAPHER SIGNUP</a></p>
+                              <a href="https://www.danceanddance.com/dance-auditions-register.php" class="headingtext"><img class="It-img" src="https://www.danceanddance.com/images/choreograph-banner.png"></a>
+                        </div>
+                        
+						<div class="lt_row_one cmn">
+                	          <p><a href="https://www.danceanddance.com/Dancer_gallery.php" class="headingtext">
+                          DANCER GALLERY</a></p>
+                              <a href="https://www.danceanddance.com/Dancer_gallery.php" class="headingtext">
+					  	      <img src="https://www.danceanddance.com/images/2.jpg" alt="famous dancers around the world" height="110" width="171" class="imgd"></a>
+                        </div>
+						<div class="lt_row_one cmn">
+                              <p><a href="https://www.danceanddance.com/Dance_styles_gallery.php" class="headingtext"> DANCE STYLES GALLERY</a></p>
+                              <a href="https://www.danceanddance.com/Dance_styles_gallery.php" class="headingtext"><img src="https://www.danceanddance.com/images/chinese.jpg" alt="dance-styles" width="171" height="110" class="imgd"></a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="right-container">
+                <h3 align="center"><strong>BALLET DANCE</strong></h3>
+                          <ul class="breadcrumb">
+  <li><a href="https://www.danceanddance.com/">Dance and Dance</a> &gt;&gt; Ballet Dance <li>
+  
+</ul>
+                   
+                
+                
+                    <div class="hd_banner cmn">
+                         <div class="cmn banner1">
+                              <a href="https://www.danceanddance.com/studio/">
+                              <img src="https://www.danceanddance.com/images/dance-studio.png" style="max-width:99%;"></a>
+                         </div>
+                         <div class="cmn banner1">
+                              <a href="https://www.danceanddance.com/dance-shop/">
+                              <img src="https://www.danceanddance.com/images/dance-store.png" style="max-width:99%;"></a>
+                         </div> 
+                    </div>
+  
+                    		
+						
+						    
+                          <div class="main-text">
+                       <h5 style="text-align:left">BALLET DANCE:</h5>
+						    Ballet dance as a backbone for many other styles of dance, as many other dance genres are based on ballet. Ballet is based on techniques that have been developed over centuries. Ballet uses music and dance to tell stories. Ballet dancers have the ability to transport an audience to another world.
+                            <h5 style="text-align:left">ORGANISATIONS:</h5>
+                             Ballet came out in late 15 century Renaissance court of Italiyan style , as a dance interpretation of fencing, and additionally urbanized in the French court from the time of Louis XIV in the 17th century. Consequently, after 1850, ballet flourished in Denmark and Russia dance. It was from Russia that it returned to Western Europe and later the globe.
+               </div>
+                <div class="row">
+               <div class="column">
+    <img src="https://www.danceanddance.com/styles/style_thumbnails/thumb_Ballet.jpg" alt="dance" class="wdn-strech rounded-corners" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://www.danceanddance.com/styles/style_thumbnails/thumb_Ballroom.jpg" alt="dance" class="wdn-strech rounded-corners" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://www.danceanddance.com/images/neo_classical_ballet.jpeg" alt="dance" class="wdn-strech rounded-corners" style="width:100%">
+  </div>
+ <div class="column">
+    <img src="https://www.danceanddance.com/images/contemporary_ballet.jpeg" alt="dance" class="wdn-strech rounded-corners" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://www.danceanddance.com/images/romantic_ballet.jpeg" alt="dance" class="wdn-strech rounded-corners" style="width:100%">
+  </div>
+</div>
+
+                 <div class="main-text">
+                           
+                           <h5 style="text-align:left">POPULARITY AND IMPORTANCE:</h5>
+                 <img src="https://sportandspinalphysio.com.au/wp-content/uploads/2019/01/Ballet-dancer_01.jpg" alt="dance" style="float:left;">
+                         These short dances grew in fame and importance until they became a form of theater in their own right, escorted by a standardization of movements and defining of other stylistic meetings. As the years passed, Russia dance became the international center of ballet, merging the strength and passion of Italian style with the softness and fluidity of the French school. The Ballet Dance is an established Paris as the capital of the ballet world. King Louis XIV, who ruled France during the late 1600's and early 1700's, strengthened that leadership. Louis greatly enjoyed dancing. He took part in all the ballets given at his court, which his nobles performed, but stopped after he became fat and middle-aged. 
+                            </div>
+                          <div class="main-text">
+                           
+                          <h5 style="text-align:left">CLASSICAL BALLET:</h5> 
+                           <img src=https://cf.ltkcdn.net/dance/images/std/55239-566x848r1-VienneseWaltzOpen.jpg alt="dance" style="float:right;">is the most formal ballet style which adheres to traditional ballet technique. Based on the origin, there are various Ballet styles: Russian ballet, French ballet, and Italian ballet. The most well-known styles of ballet are the Russian, the Italian, Balanchine Method or New York City Ballet Method. The pointe shoes were regular ballet slippers that were darned at the tip. It would allow the girl to stand on her toes to appear weightless. Classical ballet is defined by three rules : - everything is turned-out - when the feet are not on the floor, they're pointed - when the leg is not bent, it's stretched completely.
+                         
+                              
+               </div>
+                 <div class="main-text">
+                 
+                 <h5 style="text-align:left">NEOCLASSICAL BALLET:</h5>
+                 <img src="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/19575966/image/medium-5c2af77c3583c64e3534095a2a8aa557.jpg" alt="dance" style="float:left;">Neoclassical ballet is a ballet style that uses traditional ballet but less rigid than classical ballet. The dancers dance at extreme tempos and perform more technical feats. Spacing is more modern and complex than in classical ballet. It is the classical ballet style of the 20th century exemplified by the works of George Balanchine. It also draws the technique of 19th century Russian Imperial dance, but strips it of its detailed narrative and heavy theatrical setting. Although there are more organizations, the structure is a defining characteristic of neoclassical ballet.
+                 
+                 </div>
+             <div class="main-text">
+                 
+                 <h5 style="text-align:left">CONTEMPORARY BALLET:</h5>
+                 <img src="https://i.pinimg.com/originals/68/42/37/684237159c8f6f48dc6c469d5636f059.jpg" alt="dance" style="float:right;">
+                 Contemporary ballet is a dance form influenced by classical ballet and modern dance. Although it allows a greater range of movements, it takes its technique from classical ballet and the concepts from the ideas of modern dance. George Balanchine was the first pioneer of contemporary ballet and the dancer who danced briefly for Balanchine was Mikhail Baryshnikov. Baryshnikov's worked with various modern choreographers like Twyla Tharp and created some distinct modern movements with pointed shoes and classically-trained dancers for contemporary ballet.
+                  
+                 </div>
+                 <div class="main-text">
+                 
+                 <h5 style="text-align:left">ROMANTIC BALLET:</h5>
+                 <img src="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/5926744/image/e19b3eabe59494c6ce45dba90b2111ce" alt="dance" style="float:left;">Romantic Ballet is a ballet dance style in which the ideas of Romanticism influenced the creation of ballets. This era happened from early to the mid 19th century at the Théâtre de l'Académie Royale de Musique and Her Majesty's Theatre. Romantic Ballet had a slow decline. Saint-Léon's, ballet Coppélia is the last work of the Romantic Ballet. The works of Romantic Ballet focused on conflicts between man, nature and the society. The decline of male dancer and the rise of ballerina started in this era. Ballerina became the central part of ballet.
+                  
+                 </div>
+               
+                    </div>
+                   
+               </div>
+        </div> 
+       <br> 
+   
+    <!-- Home About Section End -->
+<div class="clr"></div>
+    <!-- Team Member Section Begin -->
+    <section class="team-member-section">
+        
+    </section>
+   
+   
+
+    <!-- Footer Section Begin -->
+    <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 footer-info">
+            <img src="https://www.danceanddance.com/images/logo1.gif" alt="TheEvenet">
+            <p>Dance and Dance Academy! Chennai. This site is especially designed for dance lovers and dance learners which has all things associated to dance and dancing, comprising superb dance information and much more.</p>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><i class="fa fa-angle-right"></i> <a href="https://www.danceanddance.com/dance-video.php">Videos</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="https://www.danceanddance.com/Dance_FAQ_View.php">Faq</a></li>
+              <li><i class="fa fa-angle-right"></i><a href="https://www.danceanddance.com/dance_glossary.php">Glossary 
+						  </a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="https://www.danceanddance.com/contact-us.php">Contact 
+						  Us</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="https://www.danceanddance.com/dance_tellus.php">Tell a Friend</a></li>
+               <li><i class="fa fa-angle-right"></i> <a href="https://www.danceanddance.com/Error_report.php">Report Error</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="https://www.danceanddance.com/Dance_Articles.php">Dance Articles</a></li>
+              <li><i class="fa fa-angle-right"></i><a href="https://www.danceanddance.com/sitemap.php">Site Map</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="https://www.danceanddance.com/dance_styles.php">Dance Styles</a></li>
+              <li><i class="fa fa-angle-right"></i><a href="https://www.danceanddance.com/Dance_styles_gallery.php">Dance Style Gallery</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+                           <li><i class="fa fa-angle-right"></i> <a href="https://www.danceanddance.com/Dance_companies_by_country.php">World Dance Companies</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="https://www.danceanddance.com/UK-dance-overview.php">UK Dance Overview</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="https://www.danceanddance.com/Spain-dance-overview.php">Spain Dance Overview</a></li>
+ <li><i class="fa fa-angle-right"></i> <a href="#">Home</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="https://www.danceanddance.com/india-dance-overview.php">Indian Dance Overview</a></li>
+              <li><i class="fa fa-angle-right"></i><a href="https://www.danceanddance.com/American-dance-overview.php">American Dance Overview</a></li>
+              <li><i class="fa fa-angle-right"></i><a href="https://www.danceanddance.com/Canadian-dance-overview.php">Canadian Dance Overview</a></li>
+              <li><i class="fa fa-angle-right"></i><a href="https://www.danceanddance.com/Australian-dance-overview.php">Australian Dance Overview</a></li>
+  <li><i class="fa fa-angle-right"></i><a href="https://www.danceanddance.com/Argentinean-dance-overview.php">Argentinean Dance Overview</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <h4>Contact Us</h4>
+            <p>
+            
+              714, Pathari Road, <br>
+              G.R Plaza , Anna Salai, Chennai-600006.<br>
+              Tamilnadu <br>
+              <strong>Phone:</strong> +91-9840311014<br>
+              <strong>Email:</strong> danceanddancestudio@gmail.com<br>
+            </p>
+
+            <div class="social-links">
+              <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
+              <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
+              <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
+              <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
+              <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+            </div>
+
+          </div>
+
+        </div>
+        <div class="copyright" style="text-align:center;color:#6a6b7c;">
+        © Copyright <strong>www.danceanddance.com</strong>. All Rights Reserved
+      </div>
+      </div>
+    </div>
+
+    <!--<div class="container">
+      <div class="copyright">
+        © Copyright <strong>TheEvent</strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+        
+          All the links in the footer should remain intact.
+          You can delete the links only if you purchased the pro version.
+          Licensing information: https://bootstrapmade.com/license/
+          Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=TheEvent
+        
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>-->
+  </footer>
+    <!-- Footer Section End -->
+
+    <!-- Js Plugins -->
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/jquery.countdown.min.js"></script>
+    <script src="js/jquery.slicknav.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/main.js"></script>
+</body>
+
+</html>
